@@ -1,0 +1,623 @@
+,age,education,duration,no_company_10,no_job_positions,senior,manager,linkedin link,gender_F,gender_M,education_label
+0,35,science,3,3,5,1,1,,0,1,4
+1,30,computer science,1,4,2,1,0,https://www.linkedin.com/in/mojan-benham/,1,0,1
+2,33,computer science,1,5,2,1,1,https://www.linkedin.com/in/diveshkmr/,0,1,0
+3,27,computer science,2,4,3,1,1,https://www.linkedin.com/in/jessicamcginnis/,0,1,1
+4,36,science,1,10,3,1,1,https://www.linkedin.com/in/delaneymanders/,1,0,4
+5,40,science,3,2,3,1,1,https://www.linkedin.com/in/chrisbildfell/,0,1,4
+6,42,computer science,0.5,10,1,1,1,https://www.linkedin.com/in/polinsky/,1,0,0
+7,32,other,1,3,1,1,0,https://www.linkedin.com/in/yr-ryanli/,0,1,3
+8,35,computer science,5,7,6,1,0,https://www.linkedin.com/in/solmazshahalizadeh/,1,0,0
+9,28,engineering,2,2,2,1,0,https://www.linkedin.com/in/ian-whitestone-a20a2249/,0,1,2
+10,36,computer science,1,3,1,1,1,https://www.linkedin.com/in/lyne-champagne-60a3662/,1,0,0
+11,25,engineering,2,1,1,0,0,https://www.linkedin.com/in/fadjiahcollin/,1,0,2
+12,31,engineering,2,3,1,1,1,https://www.linkedin.com/in/johnmaier81/,0,1,2
+13,34,computer science,2,8,4,0,0,https://www.linkedin.com/in/nfrancetic/,1,0,0
+14,25,computer science,1,4,1,0,0,https://www.linkedin.com/in/racheal-herlihy-85b24735/,1,0,0
+15,37,science,2,2,1,1,1,https://www.linkedin.com/in/teddyhwang/,0,1,4
+16,36,science,1,4,1,1,1,https://www.linkedin.com/in/esther-weidauer-3a6352b1/,1,0,4
+17,36,science,2,3,1,0,0,https://www.linkedin.com/in/ianrobertson85/,0,1,4
+18,39,computer science,1,8,1,1,1,https://www.linkedin.com/in/allison-malloy-00992b3/,1,0,0
+19,34,computer science,9,2,4,1,1,https://www.linkedin.com/in/jesse-lung-a540a717/,0,1,0
+20,35,computer science,1,5,2,1,1,https://www.linkedin.com/in/ryan-musgrave/,0,1,0
+21,35,computer science,1,4,1,1,0,https://www.linkedin.com/in/jiaweili/,1,0,0
+22,31,computer science,4,2,5,1,1,https://www.linkedin.com/in/hammadkd/,0,1,0
+23,25,other,3,6,2,1,0,https://www.linkedin.com/in/freya-bauer-81b5b3104/,1,0,3
+24,27,science,1,3,1,1,0,https://www.linkedin.com/in/asadali7/,0,1,4
+25,28,engineering,0.5,6,1,1,0,https://www.linkedin.com/in/mgabrielafaria/,1,0,2
+26,37,computer science,2,3,1,1,1,https://www.linkedin.com/in/josh-mcclymont-80978614/,0,1,0
+27,36,other,0.5,2,1,1,1,https://www.linkedin.com/in/cukyperez/,1,0,3
+28,24,other,0.5,4,1,0,0,https://www.linkedin.com/in/hanhatdinh/,1,0,3
+29,25,science,0.5,4,1,1,0,https://www.linkedin.com/in/brydon-parker-18b6528b/,0,1,4
+30,30,science,0.5,10,1,1,0,https://www.linkedin.com/in/mervetaner/,1,0,4
+31,37,computer science,1,4,1,1,1,https://www.linkedin.com/in/kudlacz/,0,1,0
+32,28,computer science,2,4,3,1,1,https://www.linkedin.com/in/berkayantmen/,0,1,0
+33,29,science,0.5,4,1,1,0,https://www.linkedin.com/in/bettina-hermant-27b467b3/,1,0,4
+34,30,computer science,1,3,,0,0,https://www.linkedin.com/in/lixiang-li-534353205/,0,1,0
+35,55,engineering,0.5,7,1,1,1,https://www.linkedin.com/in/kianamohseni/,1,0,2
+36,45,other,0.5,7,1,1,1,https://www.linkedin.com/in/wendy-foster-a8061a13/,1,0,3
+37,30,computer science,1,5,1,1,0,https://www.linkedin.com/in/michael-hynes-hiring-49b05246/,0,1,0
+38,33,computer science,0.5,5,1,1,1,https://www.linkedin.com/in/ikhosla/,1,0,0
+39,30,computer science,1,3,1,0,0,https://www.linkedin.com/in/kristahildner/,1,0,0
+40,37,science,2,4,2,1,0,https://www.linkedin.com/in/syeshwanth/,0,1,4
+41,41,computer science,1,4,1,1,1,https://www.linkedin.com/in/ashchristopher/,0,1,0
+42,27,other,0.5,6,1,0,0,https://www.linkedin.com/in/mathilde-buenerd/,1,0,3
+43,25,engineering,1,3,1,0,0,https://www.linkedin.com/in/soohyungchoe/,0,1,2
+44,26,engineering,1,2,1,0,0,https://www.linkedin.com/in/ipsita-dey/,1,0,2
+45,40,computer science,2,10,2,1,1,https://www.linkedin.com/in/petra-axolotl-32b98b3/,1,0,0
+46,25,science,0.5,4,1,1,0,https://www.linkedin.com/in/irislieuw/,1,0,4
+47,30,science,3,2,3,0,0,https://www.linkedin.com/in/theandreaaho/,1,0,4
+48,31,science,2,1,2,0,0,https://www.linkedin.com/in/plgillett/,1,0,4
+49,30,computer science,2,2,4,1,1,https://www.linkedin.com/in/vedpetkar/,0,1,0
+50,45,computer science,1,5,1,1,1,https://www.linkedin.com/in/pdowman/,0,1,0
+51,22,computer science,1,1,1,0,0,https://www.linkedin.com/in/pickuperic/,0,1,0
+52,38,computer science,2,5,1,1,1,https://www.linkedin.com/in/davidpettersson/,0,1,0
+53,27,other,1,5,1,0,0,https://www.linkedin.com/in/dharu-ravi-9153352a/,0,1,3
+54,22,computer science,1,1,1,0,0,https://www.linkedin.com/in/colin-r-chan/,0,1,0
+55,31,computer science,1,5,1,1,1,,0,1,0
+56,30,science,2,2,2,1,0,https://www.linkedin.com/in/keatyangkoay/,0,1,4
+57,33,computer science,4,4,4,1,1,https://www.linkedin.com/in/vchio/,0,1,0
+58,43,computer science,2,5,2,1,1,https://www.linkedin.com/in/lmandel/,0,1,0
+59,32,computer science,1,5,1,1,1,https://www.linkedin.com/in/francisp/,0,1,0
+60,31,other,2,3,2,0,0,https://www.linkedin.com/in/peterthesling/,0,1,3
+61,48,other,1,10,1,1,1,https://www.linkedin.com/in/darrenpye/,0,1,3
+62,31,computer science,3,5,1,1,0,https://www.linkedin.com/in/harisaurus/,0,1,0
+63,34,computer science,7,3,3,1,1,https://www.linkedin.com/in/ibkajila/,0,1,0
+64,32,engineering,0.5,4,1,1,0,https://www.linkedin.com/in/bahar-eghtesadi-2946583a/,1,0,2
+65,32,other,2,5,2,1,1,https://www.linkedin.com/in/andrius-budvytis-1713239b/,0,1,3
+66,28,computer science,0.5,1,1,0,0,https://www.linkedin.com/in/weininghu/,1,0,0
+67,30,other,0.5,8,1,1,0,https://www.linkedin.com/in/wendychen7/,1,0,3
+68,35,other,0.5,8,1,0,0,https://www.linkedin.com/in/speruzzo/,1,0,3
+69,36,science,1,4,4,0,0,https://www.linkedin.com/in/francoiseprovencher/,1,0,4
+70,33,science,3,3,3,0,0,https://www.linkedin.com/in/chenkarako/,1,0,4
+71,35,computer science,0.5,7,1,0,0,https://www.linkedin.com/in/ghoshsreya/,1,0,0
+72,31,other,1,2,2,0,0,https://www.linkedin.com/in/lucydanzhao/,1,0,3
+73,35,science,0.5,5,1,0,0,https://www.linkedin.com/in/niharika-reddyb/,1,0,4
+74,45,engineering,2,5,2,1,0,https://www.linkedin.com/in/hanan-ayad-ba39839/,1,0,2
+75,41,computer science,1,6,1,1,1,https://www.linkedin.com/in/derek-watson-ca/,0,1,0
+76,27,science,0.5,3,1,0,0,https://www.linkedin.com/in/lisa-bender/,1,0,4
+77,43,science,5,5,2,1,0,https://www.linkedin.com/in/vanessasabino/,1,0,4
+78,38,science,0.5,3,1,0,0,https://www.linkedin.com/in/fatima-mahmood-614217123/,1,0,4
+79,27,science,0.5,3,1,0,0,https://www.linkedin.com/in/lisa-bender/,1,0,4
+80,42,science,1,4,2,1,0,https://www.linkedin.com/in/tesic/,1,0,4
+81,30,other,0.5,3,1,0,0,https://www.linkedin.com/in/michellecpli/,1,0,3
+82,28,science,2,8,1,0,0,https://www.linkedin.com/in/sargautyte/,1,0,4
+83,32,engineering,0.5,4,1,1,0,https://www.linkedin.com/in/akmahaja/,1,0,2
+84,38,computer science,4,5,3,1,1,https://www.linkedin.com/in/phillip-rossi-hiring-5082b57/,0,1,0
+85,35,other,0.5,9,1,0,0,https://www.linkedin.com/in/eunjeong-carly-lee/,1,0,3
+86,29,science,0.5,3,1,0,0,https://www.linkedin.com/in/laurie-ou-3a1492b9/,1,0,4
+87,28,computer science,0.5,3,1,1,0,https://www.linkedin.com/in/weininghu/,1,0,0
+88,29,computer science,0.5,4,1,0,0,https://www.linkedin.com/in/sophychen2877/,1,0,0
+89,33,computer science,0.5,5,1,1,1,https://www.linkedin.com/in/saykar/,1,0,0
+90,31,computer science,0.5,9,1,0,0,https://www.linkedin.com/in/audreysage/,1,0,0
+91,27,computer science,1,3,1,0,0,https://www.linkedin.com/in/michellectian/,1,0,0
+92,26,computer science,0.5,4,1,0,0,https://www.linkedin.com/in/kataiello/,1,0,0
+93,29,computer science,0.5,7,1,1,0,https://www.linkedin.com/in/prerna-chandna-391541a2/,1,0,0
+94,36,computer science,2,8,1,0,0,https://www.linkedin.com/in/ekaterina-galieva-b563901a/,1,0,0
+95,37,computer science,1,4,1,1,0,https://www.linkedin.com/in/dana-farhat-57360646/,1,0,0
+96,33,other,2,3,3,0,0,https://www.linkedin.com/in/francistie/,1,0,3
+97,32,science,4,2,3,1,0,https://www.linkedin.com/in/kat-drobnjakovic-74165168/,1,0,4
+98,36,engineering,3,5,3,1,1,https://www.linkedin.com/in/shilpasequeira/,1,0,2
+99,40,computer science,0.5,10,1,0,0,https://www.linkedin.com/in/hajarniamehr/,1,0,0
+100,32,computer science,0.5,2,1,0,0,https://www.linkedin.com/in/gloria-yuan-7bb04572/,1,0,0
+101,40,computer science,2,4,1,1,1,https://www.linkedin.com/in/samerfahmy/,0,1,0
+102,44,computer science,1,9,1,1,1,https://www.linkedin.com/in/jerle76/,0,1,0
+103,31,computer science,2,8,1,0,0,https://www.linkedin.com/in/saboury/,0,1,0
+104,29,computer science,1,2,3,1,0,https://www.linkedin.com/in/caynan/,0,1,0
+105,24,computer science,1,2,1,0,0,https://www.linkedin.com/in/nabeelahsen/,0,1,0
+106,33,computer science,1,3,1,0,0,https://www.linkedin.com/in/saifeddine-ben-chahed-8a188328/,0,1,0
+107,37,computer science,1,7,1,1,1,https://www.linkedin.com/in/aa-r00t/,0,1,0
+108,26,engineering,2,1,2,1,0,https://www.linkedin.com/in/derekstride/,0,1,2
+109,34,engineering,1,7,1,1,0,https://www.linkedin.com/in/vivekwassan/,0,1,2
+110,34,engineering,1,5,1,1,0,https://www.linkedin.com/in/raj-kumar-90/,0,1,2
+111,37,computer science,5,4,1,1,1,https://www.linkedin.com/in/david-muzi/,0,1,0
+112,31,computer science,1,4,2,1,1,https://www.linkedin.com/in/marcolivierarsenault/,0,1,0
+113,30,computer science,0.5,7,1,1,0,https://www.linkedin.com/in/mitmaro/,0,1,0
+114,30,computer science,1,4,1,1,1,https://www.linkedin.com/in/omasabdullah/,0,1,0
+115,28,computer science,3,2,3,1,1,https://www.linkedin.com/in/jonathan-smith-2964b667/,0,1,0
+116,38,computer science,1,5,2,1,1,https://www.linkedin.com/in/uriravzin/,0,1,0
+117,35,computer science,1,4,2,1,0,https://www.linkedin.com/in/koroshsabor/,0,1,0
+118,37,engineering,1,10,1,1,1,https://www.linkedin.com/in/hasitha/,0,1,2
+119,40,computer science,0.5,10,2,1,1,https://www.linkedin.com/in/ian-foote-34159677/,0,1,0
+120,42,engineering,2,5,1,1,0,https://www.linkedin.com/in/katiecerar/,1,0,2
+121,26,other,2,4,1,0,0,https://www.linkedin.com/in/andyfang98/,0,1,3
+122,41,other,2,7,1,1,0,https://www.linkedin.com/in/amacdonell/,0,1,3
+123,35,computer science,2,3,2,1,0,https://www.linkedin.com/in/snormore/,0,1,0
+124,33,engineering,4,2,1,0,0,https://www.linkedin.com/in/amir-hekimi-23033714a/,0,1,2
+125,32,other,2,9,1,0,0,https://www.linkedin.com/in/elizabethsahadeo/,1,0,3
+126,36,engineering,2,3,1,1,0,https://www.linkedin.com/in/thuvatharma/,0,1,2
+127,31,engineering,2,1,2,0,0,https://www.linkedin.com/in/mohammedri/,0,1,2
+128,39,computer science,2,9,1,1,1,https://www.linkedin.com/in/daviderdmann/,0,1,0
+129,31,computer science,2,2,1,0,0,https://www.linkedin.com/in/lohitt/,0,1,0
+130,32,computer science,1,1,2,1,0,https://www.linkedin.com/in/magiroux/,0,1,0
+131,35,science,1,3,1,1,0,https://www.linkedin.com/in/vaibhavkumar1/,0,1,4
+132,30,engineering,2,2,2,0,0,https://www.linkedin.com/in/ishaisha/,1,0,2
+133,30,science,1,4,2,1,0,https://www.linkedin.com/in/hassandjirdeh/,0,1,4
+134,33,computer science,4,3,2,0,0,https://www.linkedin.com/in/putra-manggala-47922a38/,0,1,0
+135,43,science,2,6,2,1,1,https://www.linkedin.com/in/lukereeves/,0,1,4
+136,32,science,2,3,4,0,0,https://www.linkedin.com/in/samyabidib/,0,1,4
+137,26,science,2,1,2,1,0,https://www.linkedin.com/in/bvdbijl/,0,1,4
+138,45,computer science,2,9,2,1,0,https://www.linkedin.com/in/soobrosa/,0,1,1
+139,35,other,0.5,5,1,0,0,https://www.linkedin.com/in/omockler/,0,1,3
+140,44,other,0.5,6,1,0,0,https://www.linkedin.com/in/dmosher/,0,1,3
+141,55,computer science,1,7,1,0,0,https://www.linkedin.com/in/marcoimperatore/,0,1,0
+142,45,computer science,5,3,3,1,1,https://www.linkedin.com/in/daniel-jette-55736a1/,0,1,0
+143,33,other,2,6,3,0,0,https://www.linkedin.com/in/richgilbank/,0,1,3
+144,25,computer science,1,4,1,0,0,https://www.linkedin.com/in/sagormb24/,0,1,0
+145,31,engineering,0.5,1,1,0,0,https://www.linkedin.com/in/benaneesh/,0,1,2
+146,48,other,1,9,1,1,0,https://www.linkedin.com/in/dlennie/,0,1,3
+147,33,engineering,2,4,2,0,0,https://www.linkedin.com/in/fongjason23/,0,1,2
+148,34,engineering,2,7,2,1,0,https://www.linkedin.com/in/paulomoncores/,0,1,2
+149,51,computer science,2,8,2,0,0,https://www.linkedin.com/in/patrice-pelland-5644161/,0,1,0
+150,33,other,3,2,2,1,1,https://www.linkedin.com/in/cameron-davidson-pilon-708b5340/,0,1,3
+151,33,engineering,2,1,1,1,0,https://www.linkedin.com/in/abo-a/,0,1,2
+152,34,other,1,4,1,0,0,https://www.linkedin.com/in/daniel-asner/,0,1,3
+153,48,science,1,9,1,0,0,https://www.linkedin.com/in/chesterbr/,0,1,4
+154,55,computer science,2,6,1,1,1,https://www.linkedin.com/in/stergios-anastasiadis/,0,1,0
+155,25,computer science,0.5,2,1,0,0,https://www.linkedin.com/in/simona-iancu/,1,0,0
+156,36,computer science,1,1,1,0,0,https://www.linkedin.com/in/mark-livingston-259b0b191/,0,1,1
+157,36,engineering,2,1,5,1,0,https://www.linkedin.com/in/kylesgalloway/,0,1,2
+158,27,science,1,1,2,1,0,https://www.linkedin.com/in/sivapriyansivakumaran/,0,1,4
+159,43,other,2,3,2,1,0,https://www.linkedin.com/in/wisqnet/,0,1,3
+160,30,computer science,1,2,2,1,0,https://www.linkedin.com/in/sherryshao/,1,0,1
+161,33,engineering,2,1,2,0,0,https://www.linkedin.com/in/yagnik/,0,1,2
+162,39,other,3,2,2,0,0,https://www.linkedin.com/in/richardmmacfarlane/,0,1,3
+163,22,science,0.5,1,1,0,0,https://www.linkedin.com/in/as-nayal/,0,1,4
+164,34,computer science,2,1,1,0,0,https://www.linkedin.com/in/samuel-kadolph-22201350/,0,1,0
+165,27,computer science,0.5,3,1,0,0,https://www.linkedin.com/in/emil-aite-2a404543/,0,1,0
+166,29,engineering,0.5,1,1,0,0,https://www.linkedin.com/in/antoinegrondin/,0,1,2
+167,29,other,3,4,4,0,0,https://www.linkedin.com/in/macdonaldr93/,0,1,3
+168,29,other,2,1,2,0,0,https://www.linkedin.com/in/jasonzhao1/,0,1,3
+169,31,other,1,1,1,0,0,https://www.linkedin.com/in/alison-herriman-5451b4186/,1,0,3
+170,38,computer science,2,5,2,1,0,https://www.linkedin.com/in/surrahman/,0,1,1
+171,31,other,5,5,6,0,0,,0,1,3
+172,47,computer science,2,4,1,0,0,https://www.linkedin.com/in/hchase0001/,0,1,1
+173,40,science,0.5,2,1,1,0,https://www.linkedin.com/in/dave-ariens-2350b96b/,0,1,4
+174,33,science,9,1,1,0,0,https://www.linkedin.com/in/tetsuro-takara-88a482104/,0,1,4
+175,29,science,1,2,1,0,0,https://www.linkedin.com/in/jacobtsaf/,0,1,4
+176,28,computer science,0.5,2,1,1,0,https://www.linkedin.com/in/nwoodthorpe/,0,1,1
+177,40,computer science,1,9,1,1,0,https://www.linkedin.com/in/coreymartella/,0,1,1
+178,38,science,7,1,3,1,0,https://www.linkedin.com/in/james-macaulay-0a2a7635/,0,1,4
+152,34,other,1,4,1,0,0,https://www.linkedin.com/in/daniel-asner/,0,1,3
+153,48,science,1,9,1,0,0,https://www.linkedin.com/in/chesterbr/,0,1,4
+154,55,computer science,2,6,1,1,1,https://www.linkedin.com/in/stergios-anastasiadis/,0,1,0
+155,25,computer science,0.5,2,1,0,0,https://www.linkedin.com/in/simona-iancu/,1,0,0
+156,36,computer science,1,1,1,0,0,https://www.linkedin.com/in/mark-livingston-259b0b191/,0,1,1
+157,36,engineering,2,1,5,1,0,https://www.linkedin.com/in/kylesgalloway/,0,1,2
+158,27,science,1,1,2,1,0,https://www.linkedin.com/in/sivapriyansivakumaran/,0,1,4
+159,43,other,2,3,2,1,0,https://www.linkedin.com/in/wisqnet/,0,1,3
+160,30,computer science,1,2,2,1,0,https://www.linkedin.com/in/sherryshao/,1,0,1
+161,33,engineering,2,1,2,0,0,https://www.linkedin.com/in/yagnik/,0,1,2
+162,39,other,3,2,2,0,0,https://www.linkedin.com/in/richardmmacfarlane/,0,1,3
+163,22,science,0.5,1,1,0,0,https://www.linkedin.com/in/as-nayal/,0,1,4
+164,34,computer science,2,1,1,0,0,https://www.linkedin.com/in/samuel-kadolph-22201350/,0,1,0
+165,27,computer science,0.5,3,1,0,0,https://www.linkedin.com/in/emil-aite-2a404543/,0,1,0
+166,29,engineering,0.5,1,1,0,0,https://www.linkedin.com/in/antoinegrondin/,0,1,2
+167,29,other,3,4,4,0,0,https://www.linkedin.com/in/macdonaldr93/,0,1,3
+168,29,other,2,1,2,0,0,https://www.linkedin.com/in/jasonzhao1/,0,1,3
+169,31,other,1,1,1,0,0,https://www.linkedin.com/in/alison-herriman-5451b4186/,1,0,3
+170,38,computer science,2,5,2,1,0,https://www.linkedin.com/in/surrahman/,0,1,1
+171,31,other,5,5,6,0,0,,0,1,3
+172,47,computer science,2,4,1,0,0,https://www.linkedin.com/in/hchase0001/,0,1,1
+173,40,science,0.5,2,1,1,0,https://www.linkedin.com/in/dave-ariens-2350b96b/,0,1,4
+174,33,science,9,1,1,0,0,https://www.linkedin.com/in/tetsuro-takara-88a482104/,0,1,4
+175,29,science,1,2,1,0,0,https://www.linkedin.com/in/jacobtsaf/,0,1,4
+176,28,computer science,0.5,2,1,1,0,https://www.linkedin.com/in/nwoodthorpe/,0,1,1
+177,40,computer science,1,9,1,1,0,https://www.linkedin.com/in/coreymartella/,0,1,1
+178,38,science,7,1,3,1,0,https://www.linkedin.com/in/james-macaulay-0a2a7635/,0,1,4
+77,43,science,5,5,2,1,0,https://www.linkedin.com/in/vanessasabino/,1,0,4
+78,38,science,0.5,3,1,0,0,https://www.linkedin.com/in/fatima-mahmood-614217123/,1,0,4
+79,27,science,0.5,3,1,0,0,https://www.linkedin.com/in/lisa-bender/,1,0,4
+80,42,science,1,4,2,1,0,https://www.linkedin.com/in/tesic/,1,0,4
+81,30,other,0.5,3,1,0,0,https://www.linkedin.com/in/michellecpli/,1,0,3
+82,28,science,2,8,1,0,0,https://www.linkedin.com/in/sargautyte/,1,0,4
+83,32,engineering,0.5,4,1,1,0,https://www.linkedin.com/in/akmahaja/,1,0,2
+84,38,computer science,4,5,3,1,1,https://www.linkedin.com/in/phillip-rossi-hiring-5082b57/,0,1,0
+85,35,other,0.5,9,1,0,0,https://www.linkedin.com/in/eunjeong-carly-lee/,1,0,3
+86,29,science,0.5,3,1,0,0,https://www.linkedin.com/in/laurie-ou-3a1492b9/,1,0,4
+87,28,computer science,0.5,3,1,1,0,https://www.linkedin.com/in/weininghu/,1,0,0
+88,29,computer science,0.5,4,1,0,0,https://www.linkedin.com/in/sophychen2877/,1,0,0
+89,33,computer science,0.5,5,1,1,1,https://www.linkedin.com/in/saykar/,1,0,0
+90,31,computer science,0.5,9,1,0,0,https://www.linkedin.com/in/audreysage/,1,0,0
+91,27,computer science,1,3,1,0,0,https://www.linkedin.com/in/michellectian/,1,0,0
+92,26,computer science,0.5,4,1,0,0,https://www.linkedin.com/in/kataiello/,1,0,0
+93,29,computer science,0.5,7,1,1,0,https://www.linkedin.com/in/prerna-chandna-391541a2/,1,0,0
+94,36,computer science,2,8,1,0,0,https://www.linkedin.com/in/ekaterina-galieva-b563901a/,1,0,0
+95,37,computer science,1,4,1,1,0,https://www.linkedin.com/in/dana-farhat-57360646/,1,0,0
+96,33,other,2,3,3,0,0,https://www.linkedin.com/in/francistie/,1,0,3
+97,32,science,4,2,3,1,0,https://www.linkedin.com/in/kat-drobnjakovic-74165168/,1,0,4
+98,36,engineering,3,5,3,1,1,https://www.linkedin.com/in/shilpasequeira/,1,0,2
+99,40,computer science,0.5,10,1,0,0,https://www.linkedin.com/in/hajarniamehr/,1,0,0
+100,32,computer science,0.5,2,1,0,0,https://www.linkedin.com/in/gloria-yuan-7bb04572/,1,0,0
+101,40,computer science,2,4,1,1,1,https://www.linkedin.com/in/samerfahmy/,0,1,0
+102,44,computer science,1,9,1,1,1,https://www.linkedin.com/in/jerle76/,0,1,0
+103,31,computer science,2,8,1,0,0,https://www.linkedin.com/in/saboury/,0,1,0
+104,29,computer science,1,2,3,1,0,https://www.linkedin.com/in/caynan/,0,1,0
+105,24,computer science,1,2,1,0,0,https://www.linkedin.com/in/nabeelahsen/,0,1,0
+0,35,science,3,3,5,1,1,,0,1,4
+1,30,computer science,1,4,2,1,0,https://www.linkedin.com/in/mojan-benham/,1,0,1
+2,33,computer science,1,5,2,1,1,https://www.linkedin.com/in/diveshkmr/,0,1,0
+3,27,computer science,2,4,3,1,1,https://www.linkedin.com/in/jessicamcginnis/,0,1,1
+4,36,science,1,10,3,1,1,https://www.linkedin.com/in/delaneymanders/,1,0,4
+5,40,science,3,2,3,1,1,https://www.linkedin.com/in/chrisbildfell/,0,1,4
+6,42,computer science,0.5,10,1,1,1,https://www.linkedin.com/in/polinsky/,1,0,0
+7,32,other,1,3,1,1,0,https://www.linkedin.com/in/yr-ryanli/,0,1,3
+8,35,computer science,5,7,6,1,0,https://www.linkedin.com/in/solmazshahalizadeh/,1,0,0
+9,28,engineering,2,2,2,1,0,https://www.linkedin.com/in/ian-whitestone-a20a2249/,0,1,2
+10,36,computer science,1,3,1,1,1,https://www.linkedin.com/in/lyne-champagne-60a3662/,1,0,0
+11,25,engineering,2,1,1,0,0,https://www.linkedin.com/in/fadjiahcollin/,1,0,2
+12,31,engineering,2,3,1,1,1,https://www.linkedin.com/in/johnmaier81/,0,1,2
+13,34,computer science,2,8,4,0,0,https://www.linkedin.com/in/nfrancetic/,1,0,0
+14,25,computer science,1,4,1,0,0,https://www.linkedin.com/in/racheal-herlihy-85b24735/,1,0,0
+15,37,science,2,2,1,1,1,https://www.linkedin.com/in/teddyhwang/,0,1,4
+16,36,science,1,4,1,1,1,https://www.linkedin.com/in/esther-weidauer-3a6352b1/,1,0,4
+17,36,science,2,3,1,0,0,https://www.linkedin.com/in/ianrobertson85/,0,1,4
+18,39,computer science,1,8,1,1,1,https://www.linkedin.com/in/allison-malloy-00992b3/,1,0,0
+19,34,computer science,9,2,4,1,1,https://www.linkedin.com/in/jesse-lung-a540a717/,0,1,0
+20,35,computer science,1,5,2,1,1,https://www.linkedin.com/in/ryan-musgrave/,0,1,0
+21,35,computer science,1,4,1,1,0,https://www.linkedin.com/in/jiaweili/,1,0,0
+22,31,computer science,4,2,5,1,1,https://www.linkedin.com/in/hammadkd/,0,1,0
+23,25,other,3,6,2,1,0,https://www.linkedin.com/in/freya-bauer-81b5b3104/,1,0,3
+24,27,science,1,3,1,1,0,https://www.linkedin.com/in/asadali7/,0,1,4
+25,28,engineering,0.5,6,1,1,0,https://www.linkedin.com/in/mgabrielafaria/,1,0,2
+26,37,computer science,2,3,1,1,1,https://www.linkedin.com/in/josh-mcclymont-80978614/,0,1,0
+27,36,other,0.5,2,1,1,1,https://www.linkedin.com/in/cukyperez/,1,0,3
+28,24,other,0.5,4,1,0,0,https://www.linkedin.com/in/hanhatdinh/,1,0,3
+29,25,science,0.5,4,1,1,0,https://www.linkedin.com/in/brydon-parker-18b6528b/,0,1,4
+30,30,science,0.5,10,1,1,0,https://www.linkedin.com/in/mervetaner/,1,0,4
+0,35,science,3,3,5,1,1,,0,1,4
+1,30,computer science,1,4,2,1,0,https://www.linkedin.com/in/mojan-benham/,1,0,1
+2,33,computer science,1,5,2,1,1,https://www.linkedin.com/in/diveshkmr/,0,1,0
+3,27,computer science,2,4,3,1,1,https://www.linkedin.com/in/jessicamcginnis/,0,1,1
+4,36,science,1,10,3,1,1,https://www.linkedin.com/in/delaneymanders/,1,0,4
+5,40,science,3,2,3,1,1,https://www.linkedin.com/in/chrisbildfell/,0,1,4
+6,42,computer science,0.5,10,1,1,1,https://www.linkedin.com/in/polinsky/,1,0,0
+7,32,other,1,3,1,1,0,https://www.linkedin.com/in/yr-ryanli/,0,1,3
+8,35,computer science,5,7,6,1,0,https://www.linkedin.com/in/solmazshahalizadeh/,1,0,0
+9,28,engineering,2,2,2,1,0,https://www.linkedin.com/in/ian-whitestone-a20a2249/,0,1,2
+10,36,computer science,1,3,1,1,1,https://www.linkedin.com/in/lyne-champagne-60a3662/,1,0,0
+11,25,engineering,2,1,1,0,0,https://www.linkedin.com/in/fadjiahcollin/,1,0,2
+12,31,engineering,2,3,1,1,1,https://www.linkedin.com/in/johnmaier81/,0,1,2
+13,34,computer science,2,8,4,0,0,https://www.linkedin.com/in/nfrancetic/,1,0,0
+14,25,computer science,1,4,1,0,0,https://www.linkedin.com/in/racheal-herlihy-85b24735/,1,0,0
+15,37,science,2,2,1,1,1,https://www.linkedin.com/in/teddyhwang/,0,1,4
+16,36,science,1,4,1,1,1,https://www.linkedin.com/in/esther-weidauer-3a6352b1/,1,0,4
+17,36,science,2,3,1,0,0,https://www.linkedin.com/in/ianrobertson85/,0,1,4
+18,39,computer science,1,8,1,1,1,https://www.linkedin.com/in/allison-malloy-00992b3/,1,0,0
+19,34,computer science,9,2,4,1,1,https://www.linkedin.com/in/jesse-lung-a540a717/,0,1,0
+20,35,computer science,1,5,2,1,1,https://www.linkedin.com/in/ryan-musgrave/,0,1,0
+21,35,computer science,1,4,1,1,0,https://www.linkedin.com/in/jiaweili/,1,0,0
+22,31,computer science,4,2,5,1,1,https://www.linkedin.com/in/hammadkd/,0,1,0
+23,25,other,3,6,2,1,0,https://www.linkedin.com/in/freya-bauer-81b5b3104/,1,0,3
+24,27,science,1,3,1,1,0,https://www.linkedin.com/in/asadali7/,0,1,4
+25,28,engineering,0.5,6,1,1,0,https://www.linkedin.com/in/mgabrielafaria/,1,0,2
+26,37,computer science,2,3,1,1,1,https://www.linkedin.com/in/josh-mcclymont-80978614/,0,1,0
+27,36,other,0.5,2,1,1,1,https://www.linkedin.com/in/cukyperez/,1,0,3
+28,24,other,0.5,4,1,0,0,https://www.linkedin.com/in/hanhatdinh/,1,0,3
+29,25,science,0.5,4,1,1,0,https://www.linkedin.com/in/brydon-parker-18b6528b/,0,1,4
+30,30,science,0.5,10,1,1,0,https://www.linkedin.com/in/mervetaner/,1,0,4
+31,37,computer science,1,4,1,1,1,https://www.linkedin.com/in/kudlacz/,0,1,0
+32,28,computer science,2,4,3,1,1,https://www.linkedin.com/in/berkayantmen/,0,1,0
+33,29,science,0.5,4,1,1,0,https://www.linkedin.com/in/bettina-hermant-27b467b3/,1,0,4
+34,30,computer science,1,3,,0,0,https://www.linkedin.com/in/lixiang-li-534353205/,0,1,0
+35,55,engineering,0.5,7,1,1,1,https://www.linkedin.com/in/kianamohseni/,1,0,2
+36,45,other,0.5,7,1,1,1,https://www.linkedin.com/in/wendy-foster-a8061a13/,1,0,3
+37,30,computer science,1,5,1,1,0,https://www.linkedin.com/in/michael-hynes-hiring-49b05246/,0,1,0
+38,33,computer science,0.5,5,1,1,1,https://www.linkedin.com/in/ikhosla/,1,0,0
+39,30,computer science,1,3,1,0,0,https://www.linkedin.com/in/kristahildner/,1,0,0
+40,37,science,2,4,2,1,0,https://www.linkedin.com/in/syeshwanth/,0,1,4
+41,41,computer science,1,4,1,1,1,https://www.linkedin.com/in/ashchristopher/,0,1,0
+42,27,other,0.5,6,1,0,0,https://www.linkedin.com/in/mathilde-buenerd/,1,0,3
+43,25,engineering,1,3,1,0,0,https://www.linkedin.com/in/soohyungchoe/,0,1,2
+44,26,engineering,1,2,1,0,0,https://www.linkedin.com/in/ipsita-dey/,1,0,2
+45,40,computer science,2,10,2,1,1,https://www.linkedin.com/in/petra-axolotl-32b98b3/,1,0,0
+46,25,science,0.5,4,1,1,0,https://www.linkedin.com/in/irislieuw/,1,0,4
+47,30,science,3,2,3,0,0,https://www.linkedin.com/in/theandreaaho/,1,0,4
+48,31,science,2,1,2,0,0,https://www.linkedin.com/in/plgillett/,1,0,4
+49,30,computer science,2,2,4,1,1,https://www.linkedin.com/in/vedpetkar/,0,1,0
+50,45,computer science,1,5,1,1,1,https://www.linkedin.com/in/pdowman/,0,1,0
+51,22,computer science,1,1,1,0,0,https://www.linkedin.com/in/pickuperic/,0,1,0
+52,38,computer science,2,5,1,1,1,https://www.linkedin.com/in/davidpettersson/,0,1,0
+53,27,other,1,5,1,0,0,https://www.linkedin.com/in/dharu-ravi-9153352a/,0,1,3
+54,22,computer science,1,1,1,0,0,https://www.linkedin.com/in/colin-r-chan/,0,1,0
+55,31,computer science,1,5,1,1,1,,0,1,0
+56,30,science,2,2,2,1,0,https://www.linkedin.com/in/keatyangkoay/,0,1,4
+57,33,computer science,4,4,4,1,1,https://www.linkedin.com/in/vchio/,0,1,0
+58,43,computer science,2,5,2,1,1,https://www.linkedin.com/in/lmandel/,0,1,0
+59,32,computer science,1,5,1,1,1,https://www.linkedin.com/in/francisp/,0,1,0
+60,31,other,2,3,2,0,0,https://www.linkedin.com/in/peterthesling/,0,1,3
+61,48,other,1,10,1,1,1,https://www.linkedin.com/in/darrenpye/,0,1,3
+62,31,computer science,3,5,1,1,0,https://www.linkedin.com/in/harisaurus/,0,1,0
+63,34,computer science,7,3,3,1,1,https://www.linkedin.com/in/ibkajila/,0,1,0
+64,32,engineering,0.5,4,1,1,0,https://www.linkedin.com/in/bahar-eghtesadi-2946583a/,1,0,2
+65,32,other,2,5,2,1,1,https://www.linkedin.com/in/andrius-budvytis-1713239b/,0,1,3
+66,28,computer science,0.5,1,1,0,0,https://www.linkedin.com/in/weininghu/,1,0,0
+67,30,other,0.5,8,1,1,0,https://www.linkedin.com/in/wendychen7/,1,0,3
+68,35,other,0.5,8,1,0,0,https://www.linkedin.com/in/speruzzo/,1,0,3
+69,36,science,1,4,4,0,0,https://www.linkedin.com/in/francoiseprovencher/,1,0,4
+70,33,science,3,3,3,0,0,https://www.linkedin.com/in/chenkarako/,1,0,4
+71,35,computer science,0.5,7,1,0,0,https://www.linkedin.com/in/ghoshsreya/,1,0,0
+72,31,other,1,2,2,0,0,https://www.linkedin.com/in/lucydanzhao/,1,0,3
+73,35,science,0.5,5,1,0,0,https://www.linkedin.com/in/niharika-reddyb/,1,0,4
+74,45,engineering,2,5,2,1,0,https://www.linkedin.com/in/hanan-ayad-ba39839/,1,0,2
+75,41,computer science,1,6,1,1,1,https://www.linkedin.com/in/derek-watson-ca/,0,1,0
+76,27,science,0.5,3,1,0,0,https://www.linkedin.com/in/lisa-bender/,1,0,4
+77,43,science,5,5,2,1,0,https://www.linkedin.com/in/vanessasabino/,1,0,4
+78,38,science,0.5,3,1,0,0,https://www.linkedin.com/in/fatima-mahmood-614217123/,1,0,4
+79,27,science,0.5,3,1,0,0,https://www.linkedin.com/in/lisa-bender/,1,0,4
+80,42,science,1,4,2,1,0,https://www.linkedin.com/in/tesic/,1,0,4
+81,30,other,0.5,3,1,0,0,https://www.linkedin.com/in/michellecpli/,1,0,3
+82,28,science,2,8,1,0,0,https://www.linkedin.com/in/sargautyte/,1,0,4
+83,32,engineering,0.5,4,1,1,0,https://www.linkedin.com/in/akmahaja/,1,0,2
+84,38,computer science,4,5,3,1,1,https://www.linkedin.com/in/phillip-rossi-hiring-5082b57/,0,1,0
+85,35,other,0.5,9,1,0,0,https://www.linkedin.com/in/eunjeong-carly-lee/,1,0,3
+86,29,science,0.5,3,1,0,0,https://www.linkedin.com/in/laurie-ou-3a1492b9/,1,0,4
+87,28,computer science,0.5,3,1,1,0,https://www.linkedin.com/in/weininghu/,1,0,0
+88,29,computer science,0.5,4,1,0,0,https://www.linkedin.com/in/sophychen2877/,1,0,0
+89,33,computer science,0.5,5,1,1,1,https://www.linkedin.com/in/saykar/,1,0,0
+90,31,computer science,0.5,9,1,0,0,https://www.linkedin.com/in/audreysage/,1,0,0
+91,27,computer science,1,3,1,0,0,https://www.linkedin.com/in/michellectian/,1,0,0
+92,26,computer science,0.5,4,1,0,0,https://www.linkedin.com/in/kataiello/,1,0,0
+93,29,computer science,0.5,7,1,1,0,https://www.linkedin.com/in/prerna-chandna-391541a2/,1,0,0
+94,36,computer science,2,8,1,0,0,https://www.linkedin.com/in/ekaterina-galieva-b563901a/,1,0,0
+95,37,computer science,1,4,1,1,0,https://www.linkedin.com/in/dana-farhat-57360646/,1,0,0
+96,33,other,2,3,3,0,0,https://www.linkedin.com/in/francistie/,1,0,3
+97,32,science,4,2,3,1,0,https://www.linkedin.com/in/kat-drobnjakovic-74165168/,1,0,4
+98,36,engineering,3,5,3,1,1,https://www.linkedin.com/in/shilpasequeira/,1,0,2
+99,40,computer science,0.5,10,1,0,0,https://www.linkedin.com/in/hajarniamehr/,1,0,0
+100,32,computer science,0.5,2,1,0,0,https://www.linkedin.com/in/gloria-yuan-7bb04572/,1,0,0
+101,40,computer science,2,4,1,1,1,https://www.linkedin.com/in/samerfahmy/,0,1,0
+102,44,computer science,1,9,1,1,1,https://www.linkedin.com/in/jerle76/,0,1,0
+103,31,computer science,2,8,1,0,0,https://www.linkedin.com/in/saboury/,0,1,0
+104,29,computer science,1,2,3,1,0,https://www.linkedin.com/in/caynan/,0,1,0
+105,24,computer science,1,2,1,0,0,https://www.linkedin.com/in/nabeelahsen/,0,1,0
+106,33,computer science,1,3,1,0,0,https://www.linkedin.com/in/saifeddine-ben-chahed-8a188328/,0,1,0
+107,37,computer science,1,7,1,1,1,https://www.linkedin.com/in/aa-r00t/,0,1,0
+108,26,engineering,2,1,2,1,0,https://www.linkedin.com/in/derekstride/,0,1,2
+109,34,engineering,1,7,1,1,0,https://www.linkedin.com/in/vivekwassan/,0,1,2
+110,34,engineering,1,5,1,1,0,https://www.linkedin.com/in/raj-kumar-90/,0,1,2
+111,37,computer science,5,4,1,1,1,https://www.linkedin.com/in/david-muzi/,0,1,0
+112,31,computer science,1,4,2,1,1,https://www.linkedin.com/in/marcolivierarsenault/,0,1,0
+113,30,computer science,0.5,7,1,1,0,https://www.linkedin.com/in/mitmaro/,0,1,0
+114,30,computer science,1,4,1,1,1,https://www.linkedin.com/in/omasabdullah/,0,1,0
+115,28,computer science,3,2,3,1,1,https://www.linkedin.com/in/jonathan-smith-2964b667/,0,1,0
+116,38,computer science,1,5,2,1,1,https://www.linkedin.com/in/uriravzin/,0,1,0
+117,35,computer science,1,4,2,1,0,https://www.linkedin.com/in/koroshsabor/,0,1,0
+118,37,engineering,1,10,1,1,1,https://www.linkedin.com/in/hasitha/,0,1,2
+119,40,computer science,0.5,10,2,1,1,https://www.linkedin.com/in/ian-foote-34159677/,0,1,0
+120,42,engineering,2,5,1,1,0,https://www.linkedin.com/in/katiecerar/,1,0,2
+121,26,other,2,4,1,0,0,https://www.linkedin.com/in/andyfang98/,0,1,3
+122,41,other,2,7,1,1,0,https://www.linkedin.com/in/amacdonell/,0,1,3
+123,35,computer science,2,3,2,1,0,https://www.linkedin.com/in/snormore/,0,1,0
+124,33,engineering,4,2,1,0,0,https://www.linkedin.com/in/amir-hekimi-23033714a/,0,1,2
+125,32,other,2,9,1,0,0,https://www.linkedin.com/in/elizabethsahadeo/,1,0,3
+126,36,engineering,2,3,1,1,0,https://www.linkedin.com/in/thuvatharma/,0,1,2
+127,31,engineering,2,1,2,0,0,https://www.linkedin.com/in/mohammedri/,0,1,2
+128,39,computer science,2,9,1,1,1,https://www.linkedin.com/in/daviderdmann/,0,1,0
+129,31,computer science,2,2,1,0,0,https://www.linkedin.com/in/lohitt/,0,1,0
+130,32,computer science,1,1,2,1,0,https://www.linkedin.com/in/magiroux/,0,1,0
+131,35,science,1,3,1,1,0,https://www.linkedin.com/in/vaibhavkumar1/,0,1,4
+132,30,engineering,2,2,2,0,0,https://www.linkedin.com/in/ishaisha/,1,0,2
+133,30,science,1,4,2,1,0,https://www.linkedin.com/in/hassandjirdeh/,0,1,4
+134,33,computer science,4,3,2,0,0,https://www.linkedin.com/in/putra-manggala-47922a38/,0,1,0
+135,43,science,2,6,2,1,1,https://www.linkedin.com/in/lukereeves/,0,1,4
+136,32,science,2,3,4,0,0,https://www.linkedin.com/in/samyabidib/,0,1,4
+137,26,science,2,1,2,1,0,https://www.linkedin.com/in/bvdbijl/,0,1,4
+138,45,computer science,2,9,2,1,0,https://www.linkedin.com/in/soobrosa/,0,1,1
+139,35,other,0.5,5,1,0,0,https://www.linkedin.com/in/omockler/,0,1,3
+140,44,other,0.5,6,1,0,0,https://www.linkedin.com/in/dmosher/,0,1,3
+141,55,computer science,1,7,1,0,0,https://www.linkedin.com/in/marcoimperatore/,0,1,0
+142,45,computer science,5,3,3,1,1,https://www.linkedin.com/in/daniel-jette-55736a1/,0,1,0
+143,33,other,2,6,3,0,0,https://www.linkedin.com/in/richgilbank/,0,1,3
+144,25,computer science,1,4,1,0,0,https://www.linkedin.com/in/sagormb24/,0,1,0
+145,31,engineering,0.5,1,1,0,0,https://www.linkedin.com/in/benaneesh/,0,1,2
+146,48,other,1,9,1,1,0,https://www.linkedin.com/in/dlennie/,0,1,3
+147,33,engineering,2,4,2,0,0,https://www.linkedin.com/in/fongjason23/,0,1,2
+148,34,engineering,2,7,2,1,0,https://www.linkedin.com/in/paulomoncores/,0,1,2
+149,51,computer science,2,8,2,0,0,https://www.linkedin.com/in/patrice-pelland-5644161/,0,1,0
+150,33,other,3,2,2,1,1,https://www.linkedin.com/in/cameron-davidson-pilon-708b5340/,0,1,3
+151,33,engineering,2,1,1,1,0,https://www.linkedin.com/in/abo-a/,0,1,2
+152,34,other,1,4,1,0,0,https://www.linkedin.com/in/daniel-asner/,0,1,3
+153,48,science,1,9,1,0,0,https://www.linkedin.com/in/chesterbr/,0,1,4
+154,55,computer science,2,6,1,1,1,https://www.linkedin.com/in/stergios-anastasiadis/,0,1,0
+155,25,computer science,0.5,2,1,0,0,https://www.linkedin.com/in/simona-iancu/,1,0,0
+156,36,computer science,1,1,1,0,0,https://www.linkedin.com/in/mark-livingston-259b0b191/,0,1,1
+157,36,engineering,2,1,5,1,0,https://www.linkedin.com/in/kylesgalloway/,0,1,2
+158,27,science,1,1,2,1,0,https://www.linkedin.com/in/sivapriyansivakumaran/,0,1,4
+159,43,other,2,3,2,1,0,https://www.linkedin.com/in/wisqnet/,0,1,3
+160,30,computer science,1,2,2,1,0,https://www.linkedin.com/in/sherryshao/,1,0,1
+161,33,engineering,2,1,2,0,0,https://www.linkedin.com/in/yagnik/,0,1,2
+162,39,other,3,2,2,0,0,https://www.linkedin.com/in/richardmmacfarlane/,0,1,3
+163,22,science,0.5,1,1,0,0,https://www.linkedin.com/in/as-nayal/,0,1,4
+164,34,computer science,2,1,1,0,0,https://www.linkedin.com/in/samuel-kadolph-22201350/,0,1,0
+165,27,computer science,0.5,3,1,0,0,https://www.linkedin.com/in/emil-aite-2a404543/,0,1,0
+166,29,engineering,0.5,1,1,0,0,https://www.linkedin.com/in/antoinegrondin/,0,1,2
+167,29,other,3,4,4,0,0,https://www.linkedin.com/in/macdonaldr93/,0,1,3
+168,29,other,2,1,2,0,0,https://www.linkedin.com/in/jasonzhao1/,0,1,3
+169,31,other,1,1,1,0,0,https://www.linkedin.com/in/alison-herriman-5451b4186/,1,0,3
+170,38,computer science,2,5,2,1,0,https://www.linkedin.com/in/surrahman/,0,1,1
+171,31,other,5,5,6,0,0,,0,1,3
+172,47,computer science,2,4,1,0,0,https://www.linkedin.com/in/hchase0001/,0,1,1
+173,40,science,0.5,2,1,1,0,https://www.linkedin.com/in/dave-ariens-2350b96b/,0,1,4
+174,33,science,9,1,1,0,0,https://www.linkedin.com/in/tetsuro-takara-88a482104/,0,1,4
+175,29,science,1,2,1,0,0,https://www.linkedin.com/in/jacobtsaf/,0,1,4
+176,28,computer science,0.5,2,1,1,0,https://www.linkedin.com/in/nwoodthorpe/,0,1,1
+177,40,computer science,1,9,1,1,0,https://www.linkedin.com/in/coreymartella/,0,1,1
+0,35,science,3,3,5,1,1,,0,1,4
+1,30,computer science,1,4,2,1,0,https://www.linkedin.com/in/mojan-benham/,1,0,1
+2,33,computer science,1,5,2,1,1,https://www.linkedin.com/in/diveshkmr/,0,1,0
+3,27,computer science,2,4,3,1,1,https://www.linkedin.com/in/jessicamcginnis/,0,1,1
+4,36,science,1,10,3,1,1,https://www.linkedin.com/in/delaneymanders/,1,0,4
+5,40,science,3,2,3,1,1,https://www.linkedin.com/in/chrisbildfell/,0,1,4
+6,42,computer science,0.5,10,1,1,1,https://www.linkedin.com/in/polinsky/,1,0,0
+7,32,other,1,3,1,1,0,https://www.linkedin.com/in/yr-ryanli/,0,1,3
+8,35,computer science,5,7,6,1,0,https://www.linkedin.com/in/solmazshahalizadeh/,1,0,0
+9,28,engineering,2,2,2,1,0,https://www.linkedin.com/in/ian-whitestone-a20a2249/,0,1,2
+10,36,computer science,1,3,1,1,1,https://www.linkedin.com/in/lyne-champagne-60a3662/,1,0,0
+11,25,engineering,2,1,1,0,0,https://www.linkedin.com/in/fadjiahcollin/,1,0,2
+12,31,engineering,2,3,1,1,1,https://www.linkedin.com/in/johnmaier81/,0,1,2
+13,34,computer science,2,8,4,0,0,https://www.linkedin.com/in/nfrancetic/,1,0,0
+14,25,computer science,1,4,1,0,0,https://www.linkedin.com/in/racheal-herlihy-85b24735/,1,0,0
+15,37,science,2,2,1,1,1,https://www.linkedin.com/in/teddyhwang/,0,1,4
+16,36,science,1,4,1,1,1,https://www.linkedin.com/in/esther-weidauer-3a6352b1/,1,0,4
+17,36,science,2,3,1,0,0,https://www.linkedin.com/in/ianrobertson85/,0,1,4
+18,39,computer science,1,8,1,1,1,https://www.linkedin.com/in/allison-malloy-00992b3/,1,0,0
+19,34,computer science,9,2,4,1,1,https://www.linkedin.com/in/jesse-lung-a540a717/,0,1,0
+20,35,computer science,1,5,2,1,1,https://www.linkedin.com/in/ryan-musgrave/,0,1,0
+21,35,computer science,1,4,1,1,0,https://www.linkedin.com/in/jiaweili/,1,0,0
+22,31,computer science,4,2,5,1,1,https://www.linkedin.com/in/hammadkd/,0,1,0
+23,25,other,3,6,2,1,0,https://www.linkedin.com/in/freya-bauer-81b5b3104/,1,0,3
+24,27,science,1,3,1,1,0,https://www.linkedin.com/in/asadali7/,0,1,4
+25,28,engineering,0.5,6,1,1,0,https://www.linkedin.com/in/mgabrielafaria/,1,0,2
+26,37,computer science,2,3,1,1,1,https://www.linkedin.com/in/josh-mcclymont-80978614/,0,1,0
+27,36,other,0.5,2,1,1,1,https://www.linkedin.com/in/cukyperez/,1,0,3
+28,24,other,0.5,4,1,0,0,https://www.linkedin.com/in/hanhatdinh/,1,0,3
+29,25,science,0.5,4,1,1,0,https://www.linkedin.com/in/brydon-parker-18b6528b/,0,1,4
+30,30,science,0.5,10,1,1,0,https://www.linkedin.com/in/mervetaner/,1,0,4
+31,37,computer science,1,4,1,1,1,https://www.linkedin.com/in/kudlacz/,0,1,0
+32,28,computer science,2,4,3,1,1,https://www.linkedin.com/in/berkayantmen/,0,1,0
+33,29,science,0.5,4,1,1,0,https://www.linkedin.com/in/bettina-hermant-27b467b3/,1,0,4
+34,30,computer science,1,3,,0,0,https://www.linkedin.com/in/lixiang-li-534353205/,0,1,0
+35,55,engineering,0.5,7,1,1,1,https://www.linkedin.com/in/kianamohseni/,1,0,2
+36,45,other,0.5,7,1,1,1,https://www.linkedin.com/in/wendy-foster-a8061a13/,1,0,3
+37,30,computer science,1,5,1,1,0,https://www.linkedin.com/in/michael-hynes-hiring-49b05246/,0,1,0
+38,33,computer science,0.5,5,1,1,1,https://www.linkedin.com/in/ikhosla/,1,0,0
+39,30,computer science,1,3,1,0,0,https://www.linkedin.com/in/kristahildner/,1,0,0
+40,37,science,2,4,2,1,0,https://www.linkedin.com/in/syeshwanth/,0,1,4
+41,41,computer science,1,4,1,1,1,https://www.linkedin.com/in/ashchristopher/,0,1,0
+42,27,other,0.5,6,1,0,0,https://www.linkedin.com/in/mathilde-buenerd/,1,0,3
+43,25,engineering,1,3,1,0,0,https://www.linkedin.com/in/soohyungchoe/,0,1,2
+44,26,engineering,1,2,1,0,0,https://www.linkedin.com/in/ipsita-dey/,1,0,2
+45,40,computer science,2,10,2,1,1,https://www.linkedin.com/in/petra-axolotl-32b98b3/,1,0,0
+46,25,science,0.5,4,1,1,0,https://www.linkedin.com/in/irislieuw/,1,0,4
+47,30,science,3,2,3,0,0,https://www.linkedin.com/in/theandreaaho/,1,0,4
+48,31,science,2,1,2,0,0,https://www.linkedin.com/in/plgillett/,1,0,4
+49,30,computer science,2,2,4,1,1,https://www.linkedin.com/in/vedpetkar/,0,1,0
+50,45,computer science,1,5,1,1,1,https://www.linkedin.com/in/pdowman/,0,1,0
+51,22,computer science,1,1,1,0,0,https://www.linkedin.com/in/pickuperic/,0,1,0
+52,38,computer science,2,5,1,1,1,https://www.linkedin.com/in/davidpettersson/,0,1,0
+53,27,other,1,5,1,0,0,https://www.linkedin.com/in/dharu-ravi-9153352a/,0,1,3
+54,22,computer science,1,1,1,0,0,https://www.linkedin.com/in/colin-r-chan/,0,1,0
+55,31,computer science,1,5,1,1,1,,0,1,0
+56,30,science,2,2,2,1,0,https://www.linkedin.com/in/keatyangkoay/,0,1,4
+57,33,computer science,4,4,4,1,1,https://www.linkedin.com/in/vchio/,0,1,0
+58,43,computer science,2,5,2,1,1,https://www.linkedin.com/in/lmandel/,0,1,0
+59,32,computer science,1,5,1,1,1,https://www.linkedin.com/in/francisp/,0,1,0
+60,31,other,2,3,2,0,0,https://www.linkedin.com/in/peterthesling/,0,1,3
+61,48,other,1,10,1,1,1,https://www.linkedin.com/in/darrenpye/,0,1,3
+62,31,computer science,3,5,1,1,0,https://www.linkedin.com/in/harisaurus/,0,1,0
+63,34,computer science,7,3,3,1,1,https://www.linkedin.com/in/ibkajila/,0,1,0
+64,32,engineering,0.5,4,1,1,0,https://www.linkedin.com/in/bahar-eghtesadi-2946583a/,1,0,2
+65,32,other,2,5,2,1,1,https://www.linkedin.com/in/andrius-budvytis-1713239b/,0,1,3
+66,28,computer science,0.5,1,1,0,0,https://www.linkedin.com/in/weininghu/,1,0,0
+67,30,other,0.5,8,1,1,0,https://www.linkedin.com/in/wendychen7/,1,0,3
+68,35,other,0.5,8,1,0,0,https://www.linkedin.com/in/speruzzo/,1,0,3
+69,36,science,1,4,4,0,0,https://www.linkedin.com/in/francoiseprovencher/,1,0,4
+70,33,science,3,3,3,0,0,https://www.linkedin.com/in/chenkarako/,1,0,4
+71,35,computer science,0.5,7,1,0,0,https://www.linkedin.com/in/ghoshsreya/,1,0,0
+72,31,other,1,2,2,0,0,https://www.linkedin.com/in/lucydanzhao/,1,0,3
+73,35,science,0.5,5,1,0,0,https://www.linkedin.com/in/niharika-reddyb/,1,0,4
+74,45,engineering,2,5,2,1,0,https://www.linkedin.com/in/hanan-ayad-ba39839/,1,0,2
+75,41,computer science,1,6,1,1,1,https://www.linkedin.com/in/derek-watson-ca/,0,1,0
+76,27,science,0.5,3,1,0,0,https://www.linkedin.com/in/lisa-bender/,1,0,4
+77,43,science,5,5,2,1,0,https://www.linkedin.com/in/vanessasabino/,1,0,4
+78,38,science,0.5,3,1,0,0,https://www.linkedin.com/in/fatima-mahmood-614217123/,1,0,4
+79,27,science,0.5,3,1,0,0,https://www.linkedin.com/in/lisa-bender/,1,0,4
+80,42,science,1,4,2,1,0,https://www.linkedin.com/in/tesic/,1,0,4
+81,30,other,0.5,3,1,0,0,https://www.linkedin.com/in/michellecpli/,1,0,3
+82,28,science,2,8,1,0,0,https://www.linkedin.com/in/sargautyte/,1,0,4
+83,32,engineering,0.5,4,1,1,0,https://www.linkedin.com/in/akmahaja/,1,0,2
+84,38,computer science,4,5,3,1,1,https://www.linkedin.com/in/phillip-rossi-hiring-5082b57/,0,1,0
+85,35,other,0.5,9,1,0,0,https://www.linkedin.com/in/eunjeong-carly-lee/,1,0,3
+86,29,science,0.5,3,1,0,0,https://www.linkedin.com/in/laurie-ou-3a1492b9/,1,0,4
+87,28,computer science,0.5,3,1,1,0,https://www.linkedin.com/in/weininghu/,1,0,0
+88,29,computer science,0.5,4,1,0,0,https://www.linkedin.com/in/sophychen2877/,1,0,0
+89,33,computer science,0.5,5,1,1,1,https://www.linkedin.com/in/saykar/,1,0,0
+90,31,computer science,0.5,9,1,0,0,https://www.linkedin.com/in/audreysage/,1,0,0
+91,27,computer science,1,3,1,0,0,https://www.linkedin.com/in/michellectian/,1,0,0
+92,26,computer science,0.5,4,1,0,0,https://www.linkedin.com/in/kataiello/,1,0,0
+93,29,computer science,0.5,7,1,1,0,https://www.linkedin.com/in/prerna-chandna-391541a2/,1,0,0
+94,36,computer science,2,8,1,0,0,https://www.linkedin.com/in/ekaterina-galieva-b563901a/,1,0,0
+95,37,computer science,1,4,1,1,0,https://www.linkedin.com/in/dana-farhat-57360646/,1,0,0
+96,33,other,2,3,3,0,0,https://www.linkedin.com/in/francistie/,1,0,3
+97,32,science,4,2,3,1,0,https://www.linkedin.com/in/kat-drobnjakovic-74165168/,1,0,4
+98,36,engineering,3,5,3,1,1,https://www.linkedin.com/in/shilpasequeira/,1,0,2
+99,40,computer science,0.5,10,1,0,0,https://www.linkedin.com/in/hajarniamehr/,1,0,0
+100,32,computer science,0.5,2,1,0,0,https://www.linkedin.com/in/gloria-yuan-7bb04572/,1,0,0
+101,40,computer science,2,4,1,1,1,https://www.linkedin.com/in/samerfahmy/,0,1,0
+102,44,computer science,1,9,1,1,1,https://www.linkedin.com/in/jerle76/,0,1,0
+103,31,computer science,2,8,1,0,0,https://www.linkedin.com/in/saboury/,0,1,0
+104,29,computer science,1,2,3,1,0,https://www.linkedin.com/in/caynan/,0,1,0
+105,24,computer science,1,2,1,0,0,https://www.linkedin.com/in/nabeelahsen/,0,1,0
+106,33,computer science,1,3,1,0,0,https://www.linkedin.com/in/saifeddine-ben-chahed-8a188328/,0,1,0
+107,37,computer science,1,7,1,1,1,https://www.linkedin.com/in/aa-r00t/,0,1,0
+108,26,engineering,2,1,2,1,0,https://www.linkedin.com/in/derekstride/,0,1,2
+109,34,engineering,1,7,1,1,0,https://www.linkedin.com/in/vivekwassan/,0,1,2
+110,34,engineering,1,5,1,1,0,https://www.linkedin.com/in/raj-kumar-90/,0,1,2
+111,37,computer science,5,4,1,1,1,https://www.linkedin.com/in/david-muzi/,0,1,0
+112,31,computer science,1,4,2,1,1,https://www.linkedin.com/in/marcolivierarsenault/,0,1,0
+113,30,computer science,0.5,7,1,1,0,https://www.linkedin.com/in/mitmaro/,0,1,0
+114,30,computer science,1,4,1,1,1,https://www.linkedin.com/in/omasabdullah/,0,1,0
+115,28,computer science,3,2,3,1,1,https://www.linkedin.com/in/jonathan-smith-2964b667/,0,1,0
+116,38,computer science,1,5,2,1,1,https://www.linkedin.com/in/uriravzin/,0,1,0
+117,35,computer science,1,4,2,1,0,https://www.linkedin.com/in/koroshsabor/,0,1,0
+118,37,engineering,1,10,1,1,1,https://www.linkedin.com/in/hasitha/,0,1,2
+119,40,computer science,0.5,10,2,1,1,https://www.linkedin.com/in/ian-foote-34159677/,0,1,0
+120,42,engineering,2,5,1,1,0,https://www.linkedin.com/in/katiecerar/,1,0,2
+121,26,other,2,4,1,0,0,https://www.linkedin.com/in/andyfang98/,0,1,3
+122,41,other,2,7,1,1,0,https://www.linkedin.com/in/amacdonell/,0,1,3
+123,35,computer science,2,3,2,1,0,https://www.linkedin.com/in/snormore/,0,1,0
+124,33,engineering,4,2,1,0,0,https://www.linkedin.com/in/amir-hekimi-23033714a/,0,1,2
+125,32,other,2,9,1,0,0,https://www.linkedin.com/in/elizabethsahadeo/,1,0,3
+126,36,engineering,2,3,1,1,0,https://www.linkedin.com/in/thuvatharma/,0,1,2
+127,31,engineering,2,1,2,0,0,https://www.linkedin.com/in/mohammedri/,0,1,2
+128,39,computer science,2,9,1,1,1,https://www.linkedin.com/in/daviderdmann/,0,1,0
+129,31,computer science,2,2,1,0,0,https://www.linkedin.com/in/lohitt/,0,1,0
+130,32,computer science,1,1,2,1,0,https://www.linkedin.com/in/magiroux/,0,1,0
+131,35,science,1,3,1,1,0,https://www.linkedin.com/in/vaibhavkumar1/,0,1,4
+132,30,engineering,2,2,2,0,0,https://www.linkedin.com/in/ishaisha/,1,0,2
+133,30,science,1,4,2,1,0,https://www.linkedin.com/in/hassandjirdeh/,0,1,4
+134,33,computer science,4,3,2,0,0,https://www.linkedin.com/in/putra-manggala-47922a38/,0,1,0
+135,43,science,2,6,2,1,1,https://www.linkedin.com/in/lukereeves/,0,1,4
+136,32,science,2,3,4,0,0,https://www.linkedin.com/in/samyabidib/,0,1,4
+137,26,science,2,1,2,1,0,https://www.linkedin.com/in/bvdbijl/,0,1,4
+138,45,computer science,2,9,2,1,0,https://www.linkedin.com/in/soobrosa/,0,1,1
+139,35,other,0.5,5,1,0,0,https://www.linkedin.com/in/omockler/,0,1,3
+140,44,other,0.5,6,1,0,0,https://www.linkedin.com/in/dmosher/,0,1,3
+141,55,computer science,1,7,1,0,0,https://www.linkedin.com/in/marcoimperatore/,0,1,0
+142,45,computer science,5,3,3,1,1,https://www.linkedin.com/in/daniel-jette-55736a1/,0,1,0
+143,33,other,2,6,3,0,0,https://www.linkedin.com/in/richgilbank/,0,1,3
+144,25,computer science,1,4,1,0,0,https://www.linkedin.com/in/sagormb24/,0,1,0
+145,31,engineering,0.5,1,1,0,0,https://www.linkedin.com/in/benaneesh/,0,1,2
+146,48,other,1,9,1,1,0,https://www.linkedin.com/in/dlennie/,0,1,3
+147,33,engineering,2,4,2,0,0,https://www.linkedin.com/in/fongjason23/,0,1,2
+148,34,engineering,2,7,2,1,0,https://www.linkedin.com/in/paulomoncores/,0,1,2
+149,51,computer science,2,8,2,0,0,https://www.linkedin.com/in/patrice-pelland-5644161/,0,1,0
+150,33,other,3,2,2,1,1,https://www.linkedin.com/in/cameron-davidson-pilon-708b5340/,0,1,3
+151,33,engineering,2,1,1,1,0,https://www.linkedin.com/in/abo-a/,0,1,2
+152,34,other,1,4,1,0,0,https://www.linkedin.com/in/daniel-asner/,0,1,3
+153,48,science,1,9,1,0,0,https://www.linkedin.com/in/chesterbr/,0,1,4
+154,55,computer science,2,6,1,1,1,https://www.linkedin.com/in/stergios-anastasiadis/,0,1,0
+155,25,computer science,0.5,2,1,0,0,https://www.linkedin.com/in/simona-iancu/,1,0,0
+156,36,computer science,1,1,1,0,0,https://www.linkedin.com/in/mark-livingston-259b0b191/,0,1,1
+157,36,engineering,2,1,5,1,0,https://www.linkedin.com/in/kylesgalloway/,0,1,2
+158,27,science,1,1,2,1,0,https://www.linkedin.com/in/sivapriyansivakumaran/,0,1,4
+159,43,other,2,3,2,1,0,https://www.linkedin.com/in/wisqnet/,0,1,3
+160,30,computer science,1,2,2,1,0,https://www.linkedin.com/in/sherryshao/,1,0,1
+161,33,engineering,2,1,2,0,0,https://www.linkedin.com/in/yagnik/,0,1,2
+162,39,other,3,2,2,0,0,https://www.linkedin.com/in/richardmmacfarlane/,0,1,3
+163,22,science,0.5,1,1,0,0,https://www.linkedin.com/in/as-nayal/,0,1,4
+164,34,computer science,2,1,1,0,0,https://www.linkedin.com/in/samuel-kadolph-22201350/,0,1,0
+165,27,computer science,0.5,3,1,0,0,https://www.linkedin.com/in/emil-aite-2a404543/,0,1,0
+166,29,engineering,0.5,1,1,0,0,https://www.linkedin.com/in/antoinegrondin/,0,1,2
+167,29,other,3,4,4,0,0,https://www.linkedin.com/in/macdonaldr93/,0,1,3
+168,29,other,2,1,2,0,0,https://www.linkedin.com/in/jasonzhao1/,0,1,3
+169,31,other,1,1,1,0,0,https://www.linkedin.com/in/alison-herriman-5451b4186/,1,0,3
+170,38,computer science,2,5,2,1,0,https://www.linkedin.com/in/surrahman/,0,1,1
+171,31,other,5,5,6,0,0,,0,1,3
+172,47,computer science,2,4,1,0,0,https://www.linkedin.com/in/hchase0001/,0,1,1
+173,40,science,0.5,2,1,1,0,https://www.linkedin.com/in/dave-ariens-2350b96b/,0,1,4
+174,33,science,9,1,1,0,0,https://www.linkedin.com/in/tetsuro-takara-88a482104/,0,1,4
+175,29,science,1,2,1,0,0,https://www.linkedin.com/in/jacobtsaf/,0,1,4
+176,28,computer science,0.5,2,1,1,0,https://www.linkedin.com/in/nwoodthorpe/,0,1,1
+177,40,computer science,1,9,1,1,0,https://www.linkedin.com/in/coreymartella/,0,1,1
